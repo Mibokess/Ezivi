@@ -1,0 +1,11 @@
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\bin\Debug\netcoreapp2.2\TestCore.deps.json
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\bin\Debug\netcoreapp2.2\TestCore.runtimeconfig.json
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\bin\Debug\netcoreapp2.2\TestCore.runtimeconfig.dev.json
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\bin\Debug\netcoreapp2.2\TestCore.dll
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\bin\Debug\netcoreapp2.2\TestCore.pdb
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.csprojAssemblyReference.cache
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.csproj.CoreCompileInputs.cache
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.AssemblyInfoInputs.cache
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.AssemblyInfo.cs
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.dll
+C:\Users\mikeb\RiderProjects\TestCore\TestCore\obj\Debug\netcoreapp2.2\TestCore.pdb

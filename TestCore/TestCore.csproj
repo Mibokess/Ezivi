@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Knyaz.Optimus" Version="2.2.2" />
+      <PackageReference Include="Knyaz.Optimus.Graphics" Version="0.1.4" />
+    </ItemGroup>
+
+</Project>
